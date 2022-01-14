@@ -1,0 +1,92 @@
+[
+    {
+        "Face": "Black",
+        "Ears": "ears3",
+        "Eyes": "regular",
+        "Hair": "hair5",
+        "Mouth": "m2",
+        "Nose": "n1",
+        "tokenId": 0
+    },
+    {
+        "Face": "Black",
+        "Ears": "ears2",
+        "Eyes": "regular",
+        "Hair": "hair4",
+        "Mouth": "m1",
+        "Nose": "n1",
+        "tokenId": 1
+    },
+    {
+        "Face": "Black",
+        "Ears": "ears3",
+        "Eyes": "focused",
+        "Hair": "hair8",
+        "Mouth": "m3",
+        "Nose": "n1",
+        "tokenId": 2
+    },
+    {
+        "Face": "White",
+        "Ears": "ears2",
+        "Eyes": "regular",
+        "Hair": "hair1",
+        "Mouth": "m4",
+        "Nose": "n1",
+        "tokenId": 3
+    },
+    {
+        "Face": "White",
+        "Ears": "ears2",
+        "Eyes": "regular",
+        "Hair": "hair2",
+        "Mouth": "m3",
+        "Nose": "n1",
+        "tokenId": 4
+    },
+    {
+        "Face": "Black",
+        "Ears": "ears1",
+        "Eyes": "regular",
+        "Hair": "hair2",
+        "Mouth": "m3",
+        "Nose": "n1",
+        "tokenId": 5
+    },
+    {
+        "Face": "White",
+        "Ears": "ears3",
+        "Eyes": "regular",
+        "Hair": "hair10",
+        "Mouth": "m1",
+        "Nose": "n1",
+        "tokenId": 6
+    },
+    {
+        "Face": "Black",
+        "Ears": "ears3",
+        "Eyes": "regular",
+        "Hair": "hair10",
+        "Mouth": "m1",
+        "Nose": "n1",
+        "tokenId": 7
+    },
+    {
+        "Face": "White",
+        "Ears": "ears3",
+        "Eyes": "regular",
+        "Hair": "hair10",
+        "Mouth": "m3",
+        "Nose": "n1",
+        "tokenId": 8
+    },
+    {
+        "Face": "Black",
+        "Ears": "ears2",
+        "Eyes": "hipster",
+        "Hair": "hair4",
+        "Mouth": "m5",
+        "Nose": "n1",
+        "tokenId": 9
+    }
+]
